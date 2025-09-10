@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy==2.3.2
+matplotlib
+seaborn
+networkx==3.5
+pyvis==0.3.2 
+#pyvis.network
+#Network
