@@ -12,7 +12,7 @@ st.set_page_config(page_title="MoneyInMotion", layout="wide")
 # --------------------------
 # Sidebar Navigation
 # --------------------------
-st.sidebar.title("📌 Money in Motion - Reducing Money Outflow for Bank")
+st.sidebar.title("📌 Money in Motion - Reducing Money Outflow outside Bank Network")
 use_case = st.sidebar.radio(
     "Select Use Case:",
     ["Outflow Risk Forecasting", "Receiver Relationship Classification","Payment Network Intelligence","Implementation Requirements"]
